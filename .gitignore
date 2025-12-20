@@ -39,3 +39,8 @@ Thumbs.db
 # Logs
 *.log
 
+# Memory Bank (AI context files)
+.memory-bank/
+
+# Archive (obsolete files kept for reference)
+_archive/
